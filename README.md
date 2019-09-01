@@ -1,6 +1,7 @@
 # NLPChallengeAI4Good
 
-- To work in the NLP challenge. 
-- Please make sure you read all the README.md for each directory. 
-- If you implement some tool, please add a short description to the readme here. 
-- Further description might be given later
+<img src="final_results/topic_model_7.png" style="width:33%">
+<br/>
+<img src="final_results/topic_model_9.png" style="width:33%">
+<br/>
+<img src="final_results/topic_model_10.png" style="width:33%">
