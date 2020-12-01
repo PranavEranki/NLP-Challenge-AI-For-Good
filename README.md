@@ -1,4 +1,4 @@
-# NLPChallengeAI4Good
+# NLPChallenge AI For Good
 
 <img src="final_results/topic_model_7.png" style="width:33%">
 <br/>
